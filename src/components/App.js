@@ -28,7 +28,7 @@ class App extends Component {
                     <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <Link to="/">Post a comment</Link>
+                    <Link to="/post">Post a comment</Link>
                 </li>
                 <li>
                     {this.renderButton()}
